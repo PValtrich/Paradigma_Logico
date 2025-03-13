@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Página-1" id="Ee_lEbkh1T4eKO1_NuC7">
-    <mxGraphModel>
+    <mxGraphModel dx="2200" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="1700" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-3" value="Sala A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-6" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="280" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-7" value="&lt;span style=&quot;color: rgb(60, 64, 67); font-family: Roboto, Arial, sans-serif; letter-spacing: 0.2px;&quot;&gt;Computador com Windows, Word&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="390" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-8" value="&lt;div&gt;Processador:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Intel Core i3-12100&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Memória RAM:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Corsair Vengeance LPX 8GB (1x8GB) DDR4 3200 MHz&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Armazenamento:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SSD Kingston A2000 500GB NVMe M.2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Placa Gráfica:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Intel UHD Graphics 730&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Sistema Operacional:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Windows 11 Home 64-bit&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Monitor:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AOC 22B1HS 21,5&quot; Full HD (1920x1080)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Teclado:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Logitech K120 Teclado USB&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Mouse:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Logitech M170 Mouse sem fio&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="430" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-12" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="819" y="280" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-13" value="&lt;span style=&quot;color: rgb(60, 64, 67); font-family: Roboto, Arial, sans-serif; letter-spacing: 0.2px; text-align: start;&quot;&gt;Computador com Windows, Word, Excel e Power Point&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="635.5" y="390" width="507" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-14" value="&lt;div&gt;Processador: Intel Core i5-12400 (6 núcleos, 12 threads, até 4.4 GHz em turbo)&lt;/div&gt;&lt;div&gt;Memória RAM: Corsair Vengeance LPX 8GB (2x4GB) DDR4 3200 MHz&lt;/div&gt;&lt;div&gt;Armazenamento: SSD Kingston A2000 500GB NVMe M.2&lt;/div&gt;&lt;div&gt;Placa Gráfica: Intel UHD Graphics 730 (integrada)&lt;/div&gt;&lt;div&gt;Sistema Operacional: Windows 11 Home 64-bit&lt;/div&gt;&lt;div&gt;Monitor: AOC 24B1H 23,8&quot; Full HD (1920x1080)&lt;/div&gt;&lt;div&gt;Teclado: Logitech K120 Teclado USB&lt;/div&gt;&lt;div&gt;Mouse: Logitech M170 Mouse sem fio&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="635.5" y="430" width="467" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-15" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="1407" y="280" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-16" value="Computador para uso de Câmeras de Segurança" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1223.5" y="390" width="507" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vPu1LZy0rWk4P1YqnZLM-17" value="&lt;div&gt;Processador:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Intel Core i5-12400 (6 núcleos, 12 threads, até 4.4 GHz em turbo)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Memória RAM: Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200 MHz&lt;/div&gt;&lt;div&gt;Armazenamento: SSD Kingston A2000 500GB NVMe M.2 (para o sistema operacional e software de monitoramento)&lt;/div&gt;&lt;div&gt;HDD Seagate SkyHawk 2TB (para gravação contínua de vídeo das câmeras)&lt;/div&gt;&lt;div&gt;Placa Gráfica: Intel UHD Graphics 730 (integrada, suficiente para visualização de câmeras)&lt;/div&gt;&lt;div&gt;Sistema Operacional: Windows 10 Pro 64-bit (a versão Pro pode ser interessante para maior controle e funcionalidades avançadas)&lt;/div&gt;&lt;div&gt;Monitor: AOC 24B1H 23,8&quot; Full HD (1920x1080) (adequado para visualização de múltiplas câmeras)&lt;/div&gt;&lt;div&gt;Teclado: Logitech K120 Teclado USB&lt;/div&gt;&lt;div&gt;Mouse: Logitech M170 Mouse sem fio&lt;/div&gt;&lt;div&gt;Fonte de Alimentação: Corsair CV450, 450W, 80+ Bronze&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1223.5" y="430" width="579" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
